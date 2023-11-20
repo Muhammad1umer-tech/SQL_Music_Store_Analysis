@@ -1,5 +1,8 @@
 **Music Store Dataset Analysis**
 
+![MySql](https://img.shields.io/badge/MySql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Mysql](https://img.shields.io/badge/excel-darkgreen.svg?style=for-the-badge&logo=x&logoColor=white)
 
 **Overview**
 This project analyzes a music store dataset obtained from Kaggle, comprising multiple files, including customer, invoice, invoice_line, employee, genre, artist, track, album, and playlist.
