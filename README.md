@@ -8,7 +8,7 @@
 This project analyzes a music store dataset obtained from Kaggle, comprising multiple files, including customer, invoice, invoice_line, employee, genre, artist, track, album, and playlist. This project uses SQL to analyze the dataset of a music store.
 
 ---
->To start this project, begin by installing the SQL-supported Database Management System (DBMS). Then, create a database and tables using the schema diagram provided. Import the CSV files from the dataset folder to populate the database with the necessary files.
+>To start this project, install the SQL-supported Database Management System (DBMS). Then, create a database and tables using the schema diagram provided. Import the CSV files from the dataset folder to populate the database with the necessary files.
 ---
 
 # Schema Diagram
@@ -16,7 +16,7 @@ This project analyzes a music store dataset obtained from Kaggle, comprising mul
 
 
 **Dataset Schema**
-We've structured the dataset with a clear schema connecting tables, allowing for easy data retrieval and analysis.
+We've structured the dataset with a clear schema connecting tables, allowing easy data retrieval and analysis.
 
 
 **Key Concepts Explored**
@@ -36,8 +36,29 @@ Moderate: Group and summarize data, apply window functions, and perform table jo
 Advanced: Employ CTEs for complex queries and explore partitioning for large datasets.
 
 
+## Topics
+
+**Question Set 1 - Easy**
+Querying Employee Data
+Analyzing Invoice Data
+Sorting and Filtering Invoice Data
+Identifying Top Cities for Promotion
+Determining the Best Customer
+
+**Question Set 2 - Moderate**
+Joining Tables for Customer Analysis
+Finding Top Rock Bands
+Analyzing Track Lengths
+Advanced Customer and Artist Spending Analysis
+Country-wise Top Customers
+
+**Question Set 3 - Advanced**
+Complex Sales Analysis with CTEs (Common Table Expressions)
+In-depth customer and Artist Spending Analysis
+Country-wise Advanced Sales Analysis
+
 ## Purpose
-This Project was successfull in answering the provided question, and the purpose of this project is to learn the basic, intermediate and advance topics of Mysql.
+This Project successfully answered the provided question, and the purpose of this project is to learn the basic, intermediate, and advanced topics of Mysql.
 
 
 I hope this is helpful! -->
