@@ -16,7 +16,7 @@ This project uses SQL to generate insights into a music store to answer problems
 
 
 # Schema Diagram
-![Schema Diagram](https://github.com/avishek09/Music-Store-Analysis/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)
+![Schema Diagram](https://github.com/Muhammad1umer-tech/SQL_Music_Store_Analysis/blob/main/MusicDatabaseSchema.png)
 
 
 # Credits
