@@ -1,11 +1,11 @@
 
-#SQL Music Store Analysis
+# SQL Music Store Analysis
 
 This project uses SQL to generate insights into a music store to answer problems that refine SQL core concepts. The main purpose of this project is to get an idea of how SQL is used in data-related projects. This project helps to analyze a music store dataset obtained from Kaggle, comprising multiple files, including customer, invoice, invoice_line, employee, genre, artist, media-type, playlist-track, track, album, and playlist. 
 
 ![MySql](https://img.shields.io/badge/MySql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-darkgreen.svg?style=for-the-badge&logo=x&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-darkgreen.svg?style=for-the-badge&logo=x&logoColor=white)
 
 **Initial Step** 
 * Install the SQL-supported Database Management System (DBMS) to start this project. 
@@ -20,7 +20,7 @@ This project uses SQL to generate insights into a music store to answer problems
 
 
 
-#Topics
+# Topics
 
 **Question Set 1 - Easy**
 * Querying Employee Data.
@@ -42,8 +42,13 @@ This project uses SQL to generate insights into a music store to answer problems
 * Country-wise Advanced Sales Analysis.
 
 
-#Purpose
+# Purpose
 This Project successfully answered the provided question, and the purpose of this project is to learn the basic, intermediate, and advanced topics of SQL.
+
+
+---
+> You can download the files from the repository, to interact with the SQL code and open it locally.
+---
 
 I hope this is helpful!
 
