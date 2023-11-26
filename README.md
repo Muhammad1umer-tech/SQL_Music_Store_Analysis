@@ -5,8 +5,11 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 **Overview**
-This project analyzes a music store dataset obtained from Kaggle, comprising multiple files, including customer, invoice, invoice_line, employee, genre, artist, track, album, and playlist.
+This project analyzes a music store dataset obtained from Kaggle, comprising multiple files, including customer, invoice, invoice_line, employee, genre, artist, track, album, and playlist. This project uses SQL to analyze the dataset of a music store.
 
+---
+>To start this project, begin by installing the SQL-supported Database Management System (DBMS). Then, create a database and tables using the schema diagram provided. Import the CSV files from the dataset folder to populate the database with the necessary files.
+---
 
 **Dataset Schema**
 We've structured the dataset with a clear schema connecting tables, allowing for easy data retrieval and analysis.
