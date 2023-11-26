@@ -1,5 +1,6 @@
 
-**Overview**
+#SQL Music Store Analysis
+
 This project uses SQL to generate insights into a music store to answer problems that refine SQL core concepts. The main purpose of this project is to get an idea of how SQL is used in data-related projects. This project helps to analyze a music store dataset obtained from Kaggle, comprising multiple files, including customer, invoice, invoice_line, employee, genre, artist, media-type, playlist-track, track, album, and playlist. 
 
 ![MySql](https://img.shields.io/badge/MySql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)
